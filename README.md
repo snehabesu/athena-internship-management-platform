@@ -1,6 +1,6 @@
 # Athena – Student Internship Management Platform
 
-A system prototype for a two-sided internship platform designed to streamline internship discovery, application tracking, and employer candidate management.
+A system prototype for a two-sided internship platform designed to streamline internship discovery, application tracking, and employer candidate management through structured workflows and role-based system design.
 
 ## Prototype Preview
 
