@@ -20,8 +20,7 @@ The system models the full internship lifecycle — from discovery to applicatio
 
 ## Tools & Technologies
 
-- Figma
-- UX/UI Prototyping
+- Figma (UX/UI Prototyping)
 - System Design
 - Frontend Architecture Concepts
 - Role-Based Access Control (RBAC)
